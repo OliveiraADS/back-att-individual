@@ -1,0 +1,5 @@
+# Pasta de dependências
+node_modules/
+
+# Arquivos de ambiente com dados sensíveis
+.env
